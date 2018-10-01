@@ -1,5 +1,3 @@
-# Tomcat-Source-Code
-> 为了学习tomcat源码，并再学习源码时对源码做注释，用于加深理解
 
 
 ### Quick Start!! 快速开始
